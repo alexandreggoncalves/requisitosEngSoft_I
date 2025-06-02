@@ -1,4 +1,5 @@
-## Defeitos de Software
+## Defeitos de Software - Eng. de Software I - 2025/1
+### Prof. Andrey Rodrigues
 
 ### Taxonomia definida por Shull (1998) a partir do padrão IEEE (IEEE 830, 1998) para a natureza de defeitos em documentos de requisitos:
 
